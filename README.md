@@ -2,13 +2,13 @@
 
 Dashboard interativo desenvolvido no Power BI para análise de desempenho comercial, com foco em vendas, lucro, vendas brutas, unidades vendidas, produtos, segmentos e evolução ao longo do tempo.
 
-Este projeto foi desenvolvido como parte da minha jornada de aprendizado prático em Power BI, com o objetivo de transformar dados em informações visuais que facilitem a análise e a compreensão dos resultados de negócio.
+Este projeto faz parte da minha jornada de aprendizado prático em Power BI, com foco em transformar dados em informações visuais que apoiem a análise de resultados.
 
 ---
 
 ## 📊 Visão Geral
 
-O dashboard é dividido em quatro páginas principais:
+O dashboard é composto por quatro páginas:
 
 - **Home:** Página inicial e navegação do projeto.
 - **Sales:** Análise de vendas, evolução mensal e desempenho por produto e segmento.
@@ -63,8 +63,6 @@ O objetivo foi desenvolver um dashboard interativo capaz de apresentar informaç
 
 ## 📈 Principais Visualizações
 
-O projeto utiliza:
-
 - Cartões de indicadores (KPIs);
 - Gráficos de linha e área;
 - Gráficos de colunas;
@@ -72,13 +70,13 @@ O projeto utiliza:
 - Treemap;
 - Matriz de dados;
 - Filtros de período;
-- Botões de navegação entre páginas.
+- Navegação interativa entre páginas.
 
 ---
 
 ## 📚 O que pratiquei
 
-Durante o desenvolvimento, pratiquei:
+Durante o desenvolvimento deste projeto, pratiquei:
 
 - Importação e transformação de dados;
 - Organização e modelagem de dados;
@@ -93,8 +91,6 @@ Durante o desenvolvimento, pratiquei:
 ## 🚀 Status do Projeto
 
 Projeto concluído como parte do meu aprendizado prático em Power BI.
-
-Novas melhorias poderão ser adicionadas conforme avanço nos estudos de análise de dados e Business Intelligence.
 
 ---
 
